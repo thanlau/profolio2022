@@ -21,8 +21,7 @@ title: " Can Feature Engineering Help Quantum Machine Learning for Malware Detec
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
