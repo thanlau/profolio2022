@@ -32,8 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead io_uring infrastructure project, a new Linux kernel system call interface for asynchronous I/O, for high performant NVMe devices used by the AWS to deliver I/O latency and throughout improvements.
-
+        * Lead io_uring infrastructure project
         * Modelling
         * Deploying
 
