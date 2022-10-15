@@ -1,13 +1,15 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: "[Oct. 14] I'll be serving in the Faculty Search Committee and helping
+  UMBC in recruiting new faculty."
 subtitle: ""
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
 ---
+discussions on making offers to candidates, select candidates for offers
