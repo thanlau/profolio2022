@@ -4,7 +4,7 @@ subtitle: During my AWS internship, I finished this project.
 date: 2022-10-15T17:38:41.223Z
 summary: >-
   A project to integrate the new Linux kernel I/O system call interface with the
-  AWS kernel . The IOPS data get improved by nearly 80% with 100,000 requests.
+  AWS kernel. The IOPS data get improved by nearly 80% with 100,000 requests.
   The latency data get improved by 77%. The system call number has been reduced
   to 1/4096.
 
