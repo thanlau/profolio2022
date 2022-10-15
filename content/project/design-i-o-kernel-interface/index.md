@@ -5,13 +5,13 @@ date: 2022-10-15T17:38:41.223Z
 summary: |-
   F﻿inal Results:
 
-  The IOPS data get improved by nearly 80% with 100,000 requests.
-  The system call number has been reduced to 1/4096.
-  The latency data get improved by 77%.
+  1. The IOPS data get improved by nearly 80% with 100,000 requests.
+  2. The latency data get improved by 77%. 
+  3. The system call number has been reduced to 1/4096.
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: amazonwebservices_logo.svg_.png
   focal_point: Smart
   preview_only: false
 ---
