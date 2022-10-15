@@ -10,10 +10,5 @@ lastmod: 2020-12-13T00:00:00Z
 tags: []
 categories: []
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: true
 ---
 1﻿
