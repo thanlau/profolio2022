@@ -37,14 +37,17 @@ experience:
         * Developed a new batch data structure to I/O submission. The system call number has been reduced to **1/4096**.
         * Introduced a new workflow for concurrent request handling. Removed all the mutex usages. The latency data get improved by **77%**.
 
-  - title: Professor of Semiconductor Physics
+  - title: Application Security Analysit
     company: University X
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: shift4-payments-vector-logo
+    location: Las Vegas, NV
+    date_start: '2018-02-01'
+    date_end: '2020-08-14'
+    description: |2-
+        Responsibilities include:
+        
+        * Lead io_uring infrastructure project, a new Linux kernel system call interface for asynchronous I/O to deliver I/O latency and throughout improvements.
 
 design:
   columns: '2'
