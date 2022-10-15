@@ -12,6 +12,9 @@ summary: >-
   2. The latency data get improved by 77%. 
 
   3. The system call number has been reduced to 1/4096.
+
+
+  [﻿[Read More](https://www.ran-liu.com/project/design-i-o-kernel-interface/)]
 draft: false
 featured: false
 image:
