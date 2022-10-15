@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: System Design
-      tag: System Design
+      tag: System
     - name: Other
       tag: Demo
 
