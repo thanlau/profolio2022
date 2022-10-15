@@ -21,7 +21,7 @@ social:
     link: https://www.linkedin.com/in/ran-liu-b63b79212/
 organizations:
   - name: University of Maryland, Baltimore County
-    url: https://www.stanford.edu/
+    url: https://www.umbc.edu/
 education:
   courses:
     - course: PhD in Computer Science
