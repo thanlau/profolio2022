@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer Intern
+    company: Amazon
     company_url: ''
     company_logo: amazon-dark
-    location: California
+    location: Seattle, WA
     date_start: '2022-05-31'
     date_end: '2022-08-19'
     description: |2-
