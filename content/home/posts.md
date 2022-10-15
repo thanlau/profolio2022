@@ -3,7 +3,7 @@ widget: collection
 widget_id: News
 headless: true
 weight: 30
-title: Recent Posts
+title: Recent News
 subtitle: null
 content:
   filters:
