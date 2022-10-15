@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer Intern
     company: Amazon
     company_url: ''
-    company_logo: amazon-icon
+    company_logo: org-x
     location: Seattle, WA
     date_start: '05-31-2022'
     date_end: '08-19-2022'
