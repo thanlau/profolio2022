@@ -5,9 +5,9 @@ avatar_filename: avatar.jpeg
 bio: I'm interested in malware detection, system development, application
   development and Back-End development.
 interests:
-  - PDF Malware Detection and Classification
+  - Full-Stack Development
+  - Back-end Development
   - Artificial Intelligence
-  - Back-End Development
   - Cybersecurity
 social:
   - icon: envelope
