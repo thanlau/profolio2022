@@ -1,7 +1,7 @@
 ---
-title: "[Oct. 14] I'll be serving in the Faculty Search Committee and helping
+title: ""
+subtitle: "[Oct. 14] I'll be serving in the Faculty Search Committee and helping
   UMBC in recruiting new faculty."
-subtitle: ""
 date: 2020-12-13T00:00:00.000Z
 summary: ""
 draft: false
