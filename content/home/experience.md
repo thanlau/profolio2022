@@ -1,51 +1,40 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
+# Put Your Section Options Here (title, background, etc.) ...
+title: My Experience
 subtitle:
+weight: 10 # The position of section on page
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+# Date format
+#   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
+#   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: Software Engineer Intern
-    company: Amazon
+  - title: 'CEO'
+    company: 'GenCoin'
     company_url: ''
-    company_logo: amazon-icon
-    location: Seattle, WA
-    date_start: '05-31-2022'
-    date_end: '08-19-2022'
-    description: |2-
+    company_logo: my-logo  # Optional logo
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
         Responsibilities include:
         
-        * Lead io_uring infrastructure project, a new Linux kernel system call interface for asynchronous I/O, for high performant NVMe devices used by the AWS to deliver I/O latency and throughout improvements.
-
+        * Analysing
         * Modelling
         * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+                
+  - title: 'Professor'
+    company: 'University X'
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: my-logo  # Optional logo
+    location: 'California'
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-design:
-  columns: '2'
----
+    date_end: '2016-12-31'
+    description: 'Taught electronic engineering and researched semiconductor physics.'
