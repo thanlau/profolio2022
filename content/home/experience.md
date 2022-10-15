@@ -22,17 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer Intern
+    company: Amazon
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: amazon-icon
+    location: Seattle, WA
+    date_start: '05-31-2022'
+    date_end: '08-19-2022'
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Lead io_uring infrastructure project, a new Linux kernel system call interface for asynchronous I/O, for high performant NVMe devices used by the AWS to deliver I/O latency and throughout improvements.
+
         * Modelling
         * Deploying
 
