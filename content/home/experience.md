@@ -38,7 +38,7 @@ experience:
         * Introduced a new workflow for concurrent request handling. Removed all the mutex usages. The latency data get improved by **77%**.
 
   - title: Application Security Analysit
-    company: University X
+    company: Shift4 Payment
     company_url: ''
     company_logo: shift4-payments-vector-logo
     location: Las Vegas, NV
