@@ -17,6 +17,8 @@ summary: >-
   [﻿[Read More](https://www.ran-liu.com/project/design-i-o-kernel-interface/)]
 draft: false
 featured: false
+tags:
+  - System
 image:
   filename: logo-amazon-aurora.jpeg
   focal_point: Smart
