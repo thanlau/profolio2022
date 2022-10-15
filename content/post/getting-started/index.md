@@ -12,4 +12,3 @@ tags: []
 categories: []
 projects: []
 ---
-discussions on making offers to candidates, select candidates for offers
