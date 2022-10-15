@@ -9,7 +9,7 @@ summary: >-
 
 
   [﻿[Read More](https://github.com/thanlau/Fault-tolerant-Distributed-File-System-)]
-draft: true
+draft: false
 tags:
   - System
 external_link: https://github.com/thanlau/Fault-tolerant-Distributed-File-System-
