@@ -3,15 +3,10 @@ title: The Design of high-performance I/O kernel interface
 subtitle: During my AWS internship, I finished this project.
 date: 2022-10-15T17:38:41.223Z
 summary: >-
-  a project to integrate the new Linux kernel I/O system call interface with the
-  AWS kernel (io uring interface project). F﻿inal Results:
-
-
-  1. The IOPS data get improved by nearly 80% with 100,000 requests.
-
-  2. The latency data get improved by 77%. 
-
-  3. The system call number has been reduced to 1/4096.
+  A project to integrate the new Linux kernel I/O system call interface with the
+  AWS kernel . The IOPS data get improved by nearly 80% with 100,000 requests.
+  The latency data get improved by 77%. The system call number has been reduced
+  to 1/4096.
 
 
   [﻿[Read More](https://www.ran-liu.com/project/design-i-o-kernel-interface/)]
