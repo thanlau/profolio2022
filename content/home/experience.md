@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Lead io_uring infrastructure project, a new Linux kernel I/O system call interface to deliver I/O latency and throughout improvements.
-        * Self-designed and implemented new I/O backend APIs, used by all teams in AWS Aurora org. The IOPS data get improved by **80%** with 100,000 requests.
+        * Self-designed and implemented new I/O APIs, used by all teams in AWS Aurora org. The IOPS data get improved by **80%** with 100,000 requests.
         * Developed a new batch data structure to I/O submission. The system call number has been reduced to **1/4096**.
         * Introduced a new workflow for concurrent request handling. Removed all the mutex usages. The latency data get improved by **77%**.
 
