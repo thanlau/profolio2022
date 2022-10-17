@@ -18,7 +18,7 @@ content:
   # Email form provider
 
   # Contact details (edit or remove options as required)
-  email: rliu2@umbc.edu
+  email: rliu2{at}umbc{dot}com
   
 
 design:
