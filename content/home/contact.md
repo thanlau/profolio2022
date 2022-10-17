@@ -20,6 +20,7 @@ content:
   # Contact details (edit or remove options as required)
   email: rliu2{at}umbc{dot}com
   LinkedIn: https://www.linkedin.com/in/ran-liu-b63b79212/
+  Github: https://github.com/thanlau
   
 
 design:
