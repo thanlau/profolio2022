@@ -41,6 +41,8 @@ highlight_name: true
 first_name: Alice
 email: rliu2@umbc.edu
 ---
-Hi, my name is **Ran Liu**. I'm a computer science PhD candidate and working on developing a robust system that can defend malware evasion attacks. Outside of work, I enjoy hiking, playing video games (most recently Elden Ring), and eating delicious food (especially Chinese food). Contact me with rliu2{at}umbc{dot}com.
+Hi, my name is **Ran Liu**. I'm a computer science PhD candidate and working on developing a robust system that can defend malware evasion attacks. Outside of work, I enjoy hiking, playing video games (most recently Elden Ring), and eating delicious food (especially Chinese food). 
+
+Contact me at: rliu2{at}umbc{dot}com.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_ranliu_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
