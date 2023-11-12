@@ -46,9 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead **12** Penetration Testing projects on web service and mobile application (Android and IOS).
-        * Self-developed script for vulnerability testing.
-        * Self-developed tools for static analysis and dynamical analysis.
+        * Led 12 penetration tests on web and mobile applications using Burp Suite, NMAP, Windows shell, and Python. Delivered comprehensive risk assessments and recommended solutions to managers and stakeholders.
+        * Led code review processes before application releases, offering in-depth risk assessments and proposing technical solutions to enhance security and programming standards.
+        * Developed statistical models using Hidden Markov Model and Exponential Smoothing to detect transaction fraud.
 design:
   columns: '2'
 ---
