@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: System Design
+    - name: Back end
       tag: System
-    - name: Other
-      tag: Demo
+    - name: Time Series
+      tag: Machine Learning 
+    - name: Cybersecurity
+      tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
