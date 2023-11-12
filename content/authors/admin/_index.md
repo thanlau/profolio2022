@@ -5,10 +5,10 @@ avatar_filename: avatar.jpeg
 bio: I'm interested in malware detection, system development, application
   development and Back-End development.
 interests:
-  - Full-Stack Development
-  - Back-end Development
-  - Artificial Intelligence
+  - Machine Learning
   - Cybersecurity
+  - Time Series Model
+  - Back-End Development
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,7 +41,7 @@ highlight_name: true
 first_name: Alice
 email: rliu2@umbc.edu
 ---
-Hi, my name is **Ran Liu**. I'm a computer science PhD candidate and working on developing a robust system that can defend malware evasion attacks. Outside of work, I enjoy hiking, playing video games (most recently Elden Ring), and eating delicious food (especially Chinese food). 
+I'm **Ran Liu**, a PhD candidate in Computer Science with a focus on machine learning. My academic pursuit revolves around enhancing model development through efficient use of data and computational resources. Outside the lab, I relish hiking, immersing myself in video games like Elden Ring, and savoring the rich flavors of Chinese cuisine. My journey intertwines technical rigor with the simple joys of life, fueling both my professional drive and personal passions.
 
 Contact me at: rliu2{at}umbc{dot}com.
 
