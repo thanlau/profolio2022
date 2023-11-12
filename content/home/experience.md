@@ -32,10 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead io_uring infrastructure project, a new Linux kernel I/O system call interface to deliver I/O latency and throughout improvements.
-        * Self-designed and implemented new I/O APIs, used by all teams in AWS Aurora org. The IOPS data get improved by **80%** with 100,000 requests.
-        * Developed a new batch data structure to I/O submission. The system call number has been reduced to **1/4096**.
-        * Introduced a new workflow for concurrent request handling. Removed all the mutex usages. The latency data get improved by **77%**.
+        * Designed and implemented new I/O APIs optimizations using C++ that were used by all teams in the AWS Aurora division, reducing the IOPS (Input/Output Operations Per Second) of the AWS Aurora over 80%.
+        * Designed a new batch data structure for I/O submission, reducing system calls by a factor of **4,096**.
+        * Refactored code to eliminate lock dependencies using multithreading techniques, reducing I/O latency by **77%**.
 
   - title: Application Security Analysit
     company: Shift4 Payment
