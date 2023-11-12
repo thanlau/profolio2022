@@ -2,8 +2,8 @@
 title: Ran Liu
 role: PhD of Computer Science
 avatar_filename: avatar.jpeg
-bio: I'm interested in malware detection, system development, application
-  development and Back-End development.
+bio: My research focuses on efficient algorithms and feature engineering through
+  algorithm design, system design and feature engineering.
 interests:
   - Machine Learning
   - Cybersecurity
