@@ -45,4 +45,4 @@ Hi, my name is **Ran Liu**. I'm a computer science PhD candidate and working on 
 
 Contact me at: rliu2{at}umbc{dot}com.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_ranliu_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1F0ZSV-VRmgt3sxIi_VZReGQb25ywesgz/view?usp=drive_link" "newtab" >}}resumé{{< /staticref >}}.
