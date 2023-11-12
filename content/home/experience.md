@@ -22,21 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
-  - title: Software Engineer Intern
-    company: Amazon
-    company_url: ''
-    company_logo: amazon-dark
-    location: Seattle, WA
-    date_start: '2022-05-31'
-    date_end: '2022-08-19'
-    description: |2-
-        Responsibilities include:
-        
-        * Designed machine learning predictive model using PyTorch for competitors identification through Hidden Markov Model, Convolutional Neural Network and Dynamic Time Warping, improving detection accuracy from 46% to 67%.
-        * Developed RESTful APIs for the production system using Java Spring Framework, and implemented a lightweight version algorithms using MySQL, benefiting over 30,000 clients.
-        * Designed statistical model to predict errors in forecasting system through Random Forest and ARIMA, decreasing the mean absolute percentage error (MAPE) from 0.17 to 0.04, contributing to over **$12 million revenue**.
-        * Designed clustering algorithms utilizing GNN and GAN with TensorFlow. Refactored the base code using Java functional programming, reducing running time from approximately 8 days to around 3 hours.
    
   - title: Software Engineer Intern
     company: Amazon
