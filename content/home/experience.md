@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
- - title: Machine Learning Research Intern
-    company: SAS Institute Inc. (IDeaS Division)
+  - title: Software Engineer Intern
+    company: Amazon
     company_url: ''
-    company_logo: SAS_logo_horiz
-    location: Minneapolis, MN
-    date_start: '2023-01-09'
-    date_end: '2023-08-19'
+    company_logo: amazon-dark
+    location: Seattle, WA
+    date_start: '2022-05-31'
+    date_end: '2022-08-19'
     description: |2-
         Responsibilities include:
         
