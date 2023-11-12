@@ -12,7 +12,7 @@ summary: >-
 draft: false
 tags:
   - System
-external_link: https://github.com/thanlau/Fault-tolerant-Distributed-File-System-
+external_link: https://github.com/thanlau/fault-tolerant-distributed-file-system
 image:
   caption: ""
   focal_point: Smart
