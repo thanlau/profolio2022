@@ -1,9 +1,12 @@
 ---
 title: Forecasting Errors in Time Series Model
 date: 2023-11-12T16:46:29.926Z
-summary: "* Designed statistical model to predict errors in forecasting system
-  through Random Forest and ARIMA, decreasing the mean absolute percentage error
-  (MAPE) from 0.17 to 0.04, contributing to over $12 million revenue."
+summary: >-
+  * Designed statistical model to predict errors in forecasting system through
+  Random Forest and ARIMA, decreasing the mean absolute percentage error (MAPE)
+  from 0.17 to 0.04, contributing to over $12 million revenue.
+
+    [﻿[Read More](https://github.com/thanlau/Fault-tolerant-Distributed-File-System-)]
 draft: false
 featured: false
 tags:
@@ -40,6 +43,8 @@ The project's innovative approach to forecasting error prediction and stacked le
 * **Reduction in Mean Absolute Percentage Error (MAPE):** We successfully decreased the MAPE from 0.17 to a remarkable 0.04. This significant reduction in error rate underscores the effectiveness of our stacked learning approach.
 * **Revenue Boost:** The enhanced accuracy directly translated into a revenue increase, contributing over $12 million to the business. This figure highlights the immense financial benefits of accurate forecasting in the hospitality sector.
 * **System Robustness:** By forecasting and correcting potential errors, the system's reliability and robustness were notably improved, ensuring more consistent and dependable occupancy predictions.
+
+  ![](res.jpg "MAPE Result")
 
 #### Conclusion
 
