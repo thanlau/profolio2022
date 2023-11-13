@@ -16,7 +16,7 @@ summary: >-
 draft: false
 featured: false
 tags:
-  - Back end
+  - System
 image:
   filename: logo-amazon-aurora.jpeg
   focal_point: Smart
