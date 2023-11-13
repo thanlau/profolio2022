@@ -9,6 +9,8 @@ summary: >-
   * Developed RESTful APIs for the production system using Java Spring Framework, and implemented a lightweight version algorithms using MySQL, benefiting over 30,000 clients.
 draft: false
 featured: false
+tags:
+  - ML
 image:
   filename: prob.jpg
   focal_point: Smart
