@@ -10,7 +10,7 @@ summary: >-
 draft: false
 featured: false
 tags:
-  - Time Series
+  - ML
 image:
   filename: 508.png
   focal_point: Smart
