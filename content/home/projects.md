@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Back end
       tag: System
-    - name: Time
-      tag: Machine Learning 
+    - name: Time Series
+      tag: ML
     - name: Cybersecurity
       tag: Security
 
