@@ -29,10 +29,10 @@ content:
       tag: '*'
     - name: Back end
       tag: System
-    - name: Time Series
+    - name: Time
       tag: Machine Learning 
     - name: Cybersecurity
-      tag: Machine Learning
+      tag: Security
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
