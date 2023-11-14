@@ -1,12 +1,9 @@
 ---
 title: Forecasting Errors in Time Series Model
 date: 2023-11-12T16:46:29.926Z
-summary: >-
-  * Designed statistical model to predict errors in forecasting system through
-  Random Forest and ARIMA, decreasing the mean absolute percentage error (MAPE)
-  from 0.17 to 0.04, contributing to over $12 million revenue.
-
-    [﻿[Read More](https://github.com/thanlau/Fault-tolerant-Distributed-File-System-)]
+summary: "* Designed statistical model to predict errors in forecasting system
+  through Random Forest and ARIMA, decreasing the mean absolute percentage error
+  (MAPE) from 0.17 to 0.04, contributing to over $12 million revenue."
 draft: false
 featured: false
 tags:
