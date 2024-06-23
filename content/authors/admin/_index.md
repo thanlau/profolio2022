@@ -33,15 +33,13 @@ education:
     - course: MS in Information Security
       institution: Johns Hopkins University
       year: ""
-    - course: BS in Information Security
-      institution: Wuhan University
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
 email: rliu2@umbc.edu
 ---
-I'm **Ran Liu**, a PhD candidate in Computer Science with a focus on machine learning. My academic pursuit revolves around enhancing model development through efficient use of data and computational resources. Outside the lab, I relish hiking, immersing myself in video games like Elden Ring, and savoring the rich flavors of Chinese cuisine. My journey intertwines technical rigor with the simple joys of life, fueling both my professional drive and personal passions.
+My strongest research area is in machine learning, with a specific focus on classification and detection problems. This includes working on attack detection and the development of advanced techniques like generative adversarial networks (GANs) to efficiently generate adversarial examples for the adversarial training. My work primarily uses feature engineering and data quality improvement techniques.
 
 Contact me at: rliu2{at}umbc{dot}com.
 
